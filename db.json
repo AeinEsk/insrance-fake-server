@@ -1,10 +1,10 @@
 {
     "predictions": [
-        { "Name": "green", "Confidence": 95.76799774169922 },
-        { "Name": "red", "Confidence": 97.56799774169922 },
+        { "Name": "green", "Confidence": "95.76799774169922" },
+        { "Name": "red", "Confidence": "97.56799774169922" }
     ],
     "damage": [
-        { "Name": "unknown", "Confidence": 99.98300170898438 },
-        { "Name": "bumper_dent", "Confidence": 84.26200103759766 }
+        { "Name": "unknown", "Confidence": "99.98300170898438" },
+        { "Name": "bumper_dent", "Confidence": "84.26200103759766" }
     ]
   }
