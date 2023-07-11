@@ -1,10 +1,10 @@
 {
-    "predictions": [
+    "predictions": 
         { "Predictions": [{ "Name": "green", "Confidence": 97.76799774169922 }] }
-    ],
-    "damage": [
+    ,
+    "damage": 
         { "Predictions": [{ "Name": "bumper_dent", "Confidence": 84.26200103759766 }] }
-    ],
+    ,
       "profile": {
     "name": "test"
   }
