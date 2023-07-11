@@ -6,5 +6,8 @@
     "damage": [
         { "Name": "unknown", "Confidence": "99.98300170898438" },
         { "Name": "bumper_dent", "Confidence": "84.26200103759766" }
-    ]
+    ],
+      "profile": {
+    "name": "test"
+  }
   }
