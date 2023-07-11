@@ -1,6 +1,6 @@
 {
     "predictions": [
-        { "Predictions": [{ "Name": "green", "Confidence": 95.76799774169922 }] }
+        { "Predictions": [{ "Name": "green", "Confidence": 97.76799774169922 }] }
     ],
     "damage": [
         { "Predictions": [{ "Name": "bumper_dent", "Confidence": 84.26200103759766 }] }
